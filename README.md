@@ -8,25 +8,25 @@
 
 ### Lucas Bonomi
 
-[@](https://twitter.com/LukyVJ)
+[@LukyVJ](https://twitter.com/LukyVJ)
 
 ---
 
 ### Sascha Sigl
 
-[@](https://twitter.com/SaschaSigl)
+[@SaschaSigl](https://twitter.com/SaschaSigl)
 
 ---
 
 ### Bernhard Bücherl
 
-[@](https://twitter.com/bbuecherl)
+[@bbuecherl](https://twitter.com/bbuecherl)
 
 ---
 
 ### Gregor Adams
 
-[@](https://twitter.com/GregorAdams)
+[@GregorAdams](https://twitter.com/GregorAdams)
 
 
 ## Schedule
