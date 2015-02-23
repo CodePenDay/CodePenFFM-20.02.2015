@@ -33,7 +33,8 @@
 
 #### Pens
 
-* [CodePen FFM Livecoding](http://codepen.io/bbuecherl/pen/JoLVJv/)
+* [#CodePenFFM - Livecoding finished](http://codepen.io/bbuecherl/pen/JoLVJv/)
+* [#CodePenFFM - Workshop finished](http://codepen.io/bbuecherl/pen/ogqyqj)
 
 ### Gregor Adams
 
