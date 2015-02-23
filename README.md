@@ -30,10 +30,11 @@
 
 
 ### Gregor Adams
-Codepen: [pixelass](http://codepen.io/pixelass)  
-Twitter: [@GregorAdams](https://twitter.com/GregorAdams)  
-Topic: **CSS Image Effects**  
-Slides: [online](http://slides.pixelass.com/codepen/2015/02/index.html)  
+
+* Topic: **CSS Image Effects** 
+* [codepen.io/pixelass](http://codepen.io/pixelass)  
+* [@GregorAdams](https://twitter.com/GregorAdams)  
+* [Slides](http://slides.pixelass.com/codepen/2015/02/index.html)  
 
 #### Pens:
 * [blend modes](http://codepen.io/pixelass/pen/wBmYBg/)
