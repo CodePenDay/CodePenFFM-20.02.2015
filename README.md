@@ -1,14 +1,13 @@
 # 1. CodePenFFM Meetup
 
-[![Join the chat at https://gitter.im/CodePenFFM/20.02.2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CodePenFFM/20.02.2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-## Meetup
-
 * Date: 20.02.2015
 * Location: [ETECTURE, Darmstädter Landstraße 112, 60598 Frankfurt am Main](https://www.google.com/maps?f=q&hl=en&q=Darmst%C3%A4dter+Landstra%C3%9Fe+112+60598+Frankfurt+am+Main+Germany,+Frankfurt,+de)
 * [Registration & infos](https://nvite.com/CodePenFFM/c78)
 * [Social stats](https://nvite.com/CodePenFFM)
+* [Slides](https://slides.com/timpietrusky/codepenffm-20022015/)
 * [74 photos from Tim Pietrusky](https://www.flickr.com/photos/130745700@N08/sets/72157650559752899/)
+
+[![Join the chat at https://gitter.im/CodePenFFM/20.02.2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CodePenFFM/20.02.2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
 
@@ -18,11 +17,14 @@
 
 [@LukyVJ](https://twitter.com/LukyVJ)
 
+---
+
 
 ### Sascha Sigl
 
 [@SaschaSigl](https://twitter.com/SaschaSigl)
 
+---
 
 ### Bernhard Bücherl
 
@@ -31,6 +33,14 @@
 * [@bbuecherl](https://twitter.com/bbuecherl)
 * [Slides](http://slides.com/bbuecherl/css-animations-math)
 
+#### Pens
+
+* [CSS Waves](http://codepen.io/bbuecherl/pen/gbPBQV)
+* [Livecoding finished](http://codepen.io/bbuecherl/pen/JoLVJv/)
+* [Workshop finished](http://codepen.io/bbuecherl/pen/ogqyqj)
+
+---
+
 ### Gregor Adams
 
 * Topic: **CSS Image Effects** 
@@ -38,7 +48,7 @@
 * [@GregorAdams](https://twitter.com/GregorAdams)  
 * [Slides](http://slides.pixelass.com/codepen/2015/02/index.html)  
 
-#### Pens:
+#### Pens
 * [blend modes](http://codepen.io/pixelass/pen/wBmYBg/)
 * [filters](http://codepen.io/pixelass/pen/gbeBaM/)
 * [Roy Lichtenstein](http://codepen.io/pixelass/pen/OPQqgr)
