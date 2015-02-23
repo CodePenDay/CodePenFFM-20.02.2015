@@ -30,8 +30,18 @@
 
 
 ### Gregor Adams
+Codepen: [pixelass](http://codepen.io/pixelass)  
+Twitter: [@GregorAdams](https://twitter.com/GregorAdams)  
+Topic: **CSS Image Effects**  
+Slides: [online](http://slides.pixelass.com/codepen/2015/02/index.html)  
 
-[@GregorAdams](https://twitter.com/GregorAdams)
+#### Pens:
+* [blend modes](http://codepen.io/pixelass/pen/wBmYBg/)
+* [filters](http://codepen.io/pixelass/pen/gbeBaM/)
+* [Roy Lichtenstein](http://codepen.io/pixelass/pen/OPQqgr)
+* [Stencil](http://codepen.io/pixelass/pen/myXjRj)
+* [Albert Hofmann](http://codepen.io/pixelass/pen/pvajyv)
+* [Simple Editor](http://codepen.io/pixelass/pen/WbzPgJ)
 
 ---
 
