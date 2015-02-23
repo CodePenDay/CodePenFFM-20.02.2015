@@ -34,6 +34,7 @@
 
 #### Pens
 
+* [CSS Waves](http://codepen.io/bbuecherl/pen/gbPBQV)
 * [Livecoding finished](http://codepen.io/bbuecherl/pen/JoLVJv/)
 * [Workshop finished](http://codepen.io/bbuecherl/pen/ogqyqj)
 
