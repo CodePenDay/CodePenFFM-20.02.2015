@@ -6,7 +6,6 @@
 
 * Date: 20.02.2015
 * Location: [ETECTURE, Darmstädter Landstraße 112, 60598 Frankfurt am Main](https://www.google.com/maps?f=q&hl=en&q=Darmst%C3%A4dter+Landstra%C3%9Fe+112+60598+Frankfurt+am+Main+Germany,+Frankfurt,+de)
-
 * [Registration & infos](https://nvite.com/CodePenFFM/c78)
 * [Social stats](https://nvite.com/CodePenFFM)
 * [74 photos from Tim Pietrusky](https://www.flickr.com/photos/130745700@N08/sets/72157650559752899/)
