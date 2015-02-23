@@ -5,7 +5,8 @@
 * [Registration & infos](https://nvite.com/CodePenFFM/c78)
 * [Social stats](https://nvite.com/CodePenFFM)
 * [74 photos from Tim Pietrusky](https://www.flickr.com/photos/130745700@N08/sets/72157650559752899/)
-* [![Join the chat at https://gitter.im/CodePenFFM/20.02.2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CodePenFFM/20.02.2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/CodePenFFM/20.02.2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CodePenFFM/20.02.2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
 
@@ -20,6 +21,7 @@
 
 [@SaschaSigl](https://twitter.com/SaschaSigl)
 
+---
 
 ### Bernhard Bücherl
 
@@ -32,6 +34,8 @@
 
 * [Livecoding finished](http://codepen.io/bbuecherl/pen/JoLVJv/)
 * [Workshop finished](http://codepen.io/bbuecherl/pen/ogqyqj)
+
+---
 
 ### Gregor Adams
 
