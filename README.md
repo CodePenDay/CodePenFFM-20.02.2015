@@ -26,8 +26,10 @@
 
 ### Bernhard Bücherl
 
-[@bbuecherl](https://twitter.com/bbuecherl)
-
+* Topic: **Animations and Maths in CSS**
+* [codepen.io/bbuecherl](http://codepen.io/bbuecherl)
+* [@bbuecherl](https://twitter.com/bbuecherl)
+* [Slides](http://slides.com/bbuecherl/css-animations-math)
 
 ### Gregor Adams
 
