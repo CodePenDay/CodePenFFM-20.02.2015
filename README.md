@@ -10,11 +10,15 @@
 
 [@LukyVJ](https://twitter.com/LukyVJ)
 
+#### Links
+
 ---
 
 ### Sascha Sigl
 
 [@SaschaSigl](https://twitter.com/SaschaSigl)
+
+#### Links
 
 ---
 
@@ -22,11 +26,15 @@
 
 [@bbuecherl](https://twitter.com/bbuecherl)
 
+#### Links
+
 ---
 
 ### Gregor Adams
 
 [@GregorAdams](https://twitter.com/GregorAdams)
+
+#### Links
 
 
 ## Schedule
