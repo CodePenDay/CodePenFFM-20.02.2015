@@ -46,6 +46,8 @@
 * [CSS Waves](http://codepen.io/bbuecherl/pen/gbPBQV)
 * [Livecoding finished](http://codepen.io/bbuecherl/pen/JoLVJv/)
 * [Workshop finished](http://codepen.io/bbuecherl/pen/ogqyqj)
+* [css dot spinner](http://codepen.io/bbuecherl/pen/zxxQPm)
+* [Moving rectangles](http://codepen.io/bbuecherl/pen/OPyzgo)
 
 ---
 
