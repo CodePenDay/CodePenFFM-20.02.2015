@@ -15,7 +15,8 @@
 
 ### Lucas Bonomi
 
-![alt tag](https://c1.staticflickr.com/9/8583/16427649250_d7a56913b5_n.jpg)
+![alt tag](https://c1.staticflickr.com/9/8583/16427649250_d7a56913b5_b.jpg)
+
 [Source on flickr](https://www.flickr.com/photos/130745700@N08/sets/72157650559752899/)
 
 [@LukyVJ](https://twitter.com/LukyVJ)
@@ -25,9 +26,11 @@
 * [@LukyVj](https://twitter.com/LukyVj)
 * [lucasbonomi.com](http://lucasbonomi.com)
 * [Slides](http://slides.com/lukyvj/css-zones-mapping)
+#### Pens
 * [CSS Zones Mapping - Pen used for the talk](http://codepen.io/LukyVj/pen/gbRbVy)
 * [CSS Zones Mapping template (gist)](https://gist.github.com/LukyVj/1a5200f95a5a3decc093)
 * [CSS Zones Mapping template (pen)](http://codepen.io/LukyVj/pen/YPabLq)
+
 ---
 
 
