@@ -26,6 +26,7 @@
 * [@LukyVj](https://twitter.com/LukyVj)
 * [lucasbonomi.com](http://lucasbonomi.com)
 * [Slides](http://slides.com/lukyvj/css-zones-mapping)
+
 #### Pens
 * [CSS Zones Mapping - Pen used for the talk](http://codepen.io/LukyVj/pen/gbRbVy)
 * [CSS Zones Mapping template (gist)](https://gist.github.com/LukyVj/1a5200f95a5a3decc093)
