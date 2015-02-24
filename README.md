@@ -15,6 +15,8 @@
 
 ### Lucas Bonomi
 
+![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/lucas_bonomi.jpg)
+
 [@LukyVJ](https://twitter.com/LukyVJ)
 
 ---
@@ -22,11 +24,15 @@
 
 ### Sascha Sigl
 
+![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/sascha_sigl.jpg)
+
 [@SaschaSigl](https://twitter.com/SaschaSigl)
 
 ---
 
 ### Bernhard Bücherl
+
+![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/bernhard_buecherl.jpg)
 
 * Topic: **Animations and Maths in CSS**
 * [codepen.io/bbuecherl](http://codepen.io/bbuecherl)
@@ -42,6 +48,8 @@
 ---
 
 ### Gregor Adams
+
+![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/gregor_adams.jpg)
 
 * Topic: **CSS Image Effects** 
 * [codepen.io/pixelass](http://codepen.io/pixelass)  
