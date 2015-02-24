@@ -40,7 +40,25 @@
 ![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/sascha_sigl_large.jpg)
 [Source on flickr](https://www.flickr.com/photos/130745700@N08/16427555778/in/set-72157650559752899)
 
-[@SaschaSigl](https://twitter.com/SaschaSigl)
+* Topic: **Visualise Audio with canvas/three.js** 
+* [codepen.io/SaschaSigl](http://codepen.io/SaschaSigl)
+* [paprcraft](http://paprcraft.com)  
+* [@SaschaSigl](https://twitter.com/SaschaSigl)  
+* [Codepen Slides](http://codepen.io/SaschaSigl/full/PwQZLW/)  
+
+#### Pens
+* [play | analyse | visualise from file](http://codepen.io/SaschaSigl/pen/yypQyN) (lines on canvas) 
+* [play | analyse | visualise from file](http://codepen.io/SaschaSigl/pen/bNoMYM) (graph on canvas)
+* [live audio input](http://codepen.io/SaschaSigl/pen/WbMbzE) (canvas)
+* [audioreactive bubbles from file](http://codepen.io/SaschaSigl/pen/myXxBz) (three.js)
+* [live audio](http://codepen.io/SaschaSigl/pen/myxaQb) (three.js)
+* [visualise captured audio data](http://codepen.io/SaschaSigl/pen/KwQvNm) (three.js)
+
+#### Music
+* "Poetic Motion" by [Sound Awakener](https://vimeo.com/user23575062)
+* "Lear Jet" by [Balduin](http://www.balduin.org/)
+* "A Flavored Bouquet" by [Balduin](http://www.balduin.org/)
+
 
 ---
 
