@@ -15,11 +15,8 @@
 
 ### Lucas Bonomi
 
-![alt tag](https://c1.staticflickr.com/9/8583/16427649250_d7a56913b5_b.jpg)
-
-[Source on flickr](https://www.flickr.com/photos/130745700@N08/sets/72157650559752899/)
-
-[@LukyVJ](https://twitter.com/LukyVJ)
+![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/lucas_bonomi_large.jpg)
+[Source on flickr](https://www.flickr.com/photos/130745700@N08/16427649250/in/set-72157650559752899)
 
 * Topic: **CSS Zones Mapping**
 * [codepen.io/LukyVj](http://codepen.io/LukyVj)
