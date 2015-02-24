@@ -24,9 +24,9 @@
 
 ### Sascha Sigl
 
-[@SaschaSigl](https://twitter.com/SaschaSigl)
-
 ![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/sascha_sigl.jpg)
+
+[@SaschaSigl](https://twitter.com/SaschaSigl)
 
 ---
 
