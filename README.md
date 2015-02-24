@@ -15,9 +15,19 @@
 
 ### Lucas Bonomi
 
-![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/lucas_bonomi.jpg)
+![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/lucas_bonomi_large.jpg)
+[Source on flickr](https://www.flickr.com/photos/130745700@N08/16427649250/in/set-72157650559752899)
 
-[@LukyVJ](https://twitter.com/LukyVJ)
+* Topic: **CSS Zones Mapping**
+* [codepen.io/LukyVj](http://codepen.io/LukyVj)
+* [@LukyVj](https://twitter.com/LukyVj)
+* [lucasbonomi.com](http://lucasbonomi.com)
+* [Slides](http://slides.com/lukyvj/css-zones-mapping)
+
+#### Pens
+* [CSS Zones Mapping - Pen used for the talk](http://codepen.io/LukyVj/pen/gbRbVy)
+* [CSS Zones Mapping template (gist)](https://gist.github.com/LukyVj/1a5200f95a5a3decc093)
+* [CSS Zones Mapping template (pen)](http://codepen.io/LukyVj/pen/YPabLq)
 
 ---
 
@@ -25,14 +35,34 @@
 ### Sascha Sigl
 
 ![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/sascha_sigl_large.jpg)
+[Source on flickr](https://www.flickr.com/photos/130745700@N08/16427555778/in/set-72157650559752899)
 
-[@SaschaSigl](https://twitter.com/SaschaSigl)
+* Topic: **Visualise Audio with canvas/three.js** 
+* [codepen.io/SaschaSigl](http://codepen.io/SaschaSigl)
+* [paprcraft](http://paprcraft.com)  
+* [@SaschaSigl](https://twitter.com/SaschaSigl)  
+* [Codepen Slides](http://codepen.io/SaschaSigl/full/PwQZLW/)  
+
+#### Pens
+* [play | analyse | visualise from file](http://codepen.io/SaschaSigl/pen/yypQyN) (lines on canvas) 
+* [play | analyse | visualise from file](http://codepen.io/SaschaSigl/pen/bNoMYM) (graph on canvas)
+* [live audio input](http://codepen.io/SaschaSigl/pen/WbMbzE) (canvas)
+* [audioreactive bubbles from file](http://codepen.io/SaschaSigl/pen/myXxBz) (three.js)
+* [live audio](http://codepen.io/SaschaSigl/pen/myxaQb) (three.js)
+* [visualise captured audio data](http://codepen.io/SaschaSigl/pen/KwQvNm) (three.js)
+
+#### Music
+* "Poetic Motion" by [Sound Awakener](https://vimeo.com/user23575062)
+* "Lear Jet" by [Balduin](http://www.balduin.org/)
+* "A Flavored Bouquet" by [Balduin](http://www.balduin.org/)
+
 
 ---
 
 ### Bernhard Bücherl
 
 ![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/bernhard_buecherl_large.jpg)
+[Source on flickr](https://www.flickr.com/photos/130745700@N08/15992574854/in/set-72157650559752899)
 
 * Topic: **Animations and Maths in CSS**
 * [codepen.io/bbuecherl](http://codepen.io/bbuecherl)
@@ -44,12 +74,15 @@
 * [CSS Waves](http://codepen.io/bbuecherl/pen/gbPBQV)
 * [Livecoding finished](http://codepen.io/bbuecherl/pen/JoLVJv/)
 * [Workshop finished](http://codepen.io/bbuecherl/pen/ogqyqj)
+* [css dot spinner](http://codepen.io/bbuecherl/pen/zxxQPm)
+* [Moving rectangles](http://codepen.io/bbuecherl/pen/OPyzgo)
 
 ---
 
 ### Gregor Adams
 
 ![alt tag](https://raw.githubusercontent.com/CodePenFFM/20.02.2015/master/images/speaker/gregor_adams_large.jpg)
+[Source on flickr](https://www.flickr.com/photos/130745700@N08/16407512307/in/set-72157650559752899)
 
 * Topic: **CSS Image Effects** 
 * [codepen.io/pixelass](http://codepen.io/pixelass)  
